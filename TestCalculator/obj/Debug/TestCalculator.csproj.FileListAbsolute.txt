@@ -1,0 +1,15 @@
+D:\Programming\TestingProj\TestCalculator\bin\Debug\TestCalculator.exe.config
+D:\Programming\TestingProj\TestCalculator\bin\Debug\TestCalculator.exe
+D:\Programming\TestingProj\TestCalculator\bin\Debug\TestCalculator.pdb
+D:\Programming\TestingProj\TestCalculator\obj\Debug\TestCalculator.csproj.AssemblyReference.cache
+D:\Programming\TestingProj\TestCalculator\obj\Debug\MainWindow.g.cs
+D:\Programming\TestingProj\TestCalculator\obj\Debug\App.g.cs
+D:\Programming\TestingProj\TestCalculator\obj\Debug\TestCalculator_MarkupCompile.cache
+D:\Programming\TestingProj\TestCalculator\obj\Debug\TestCalculator_MarkupCompile.lref
+D:\Programming\TestingProj\TestCalculator\obj\Debug\MainWindow.baml
+D:\Programming\TestingProj\TestCalculator\obj\Debug\TestCalculator.g.resources
+D:\Programming\TestingProj\TestCalculator\obj\Debug\TestCalculator.Properties.Resources.resources
+D:\Programming\TestingProj\TestCalculator\obj\Debug\TestCalculator.csproj.GenerateResource.cache
+D:\Programming\TestingProj\TestCalculator\obj\Debug\TestCalculator.csproj.CoreCompileInputs.cache
+D:\Programming\TestingProj\TestCalculator\obj\Debug\TestCalculator.exe
+D:\Programming\TestingProj\TestCalculator\obj\Debug\TestCalculator.pdb
